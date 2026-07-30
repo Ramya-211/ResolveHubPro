@@ -80,7 +80,7 @@ npm install
 npm run seed               # populates demo users, resources, categories & tickets
 npm run dev                 # starts the API on http://localhost:5000
 ```
-### hello
+### helloo
 ### 2. Frontend setup
 
 ```bash
